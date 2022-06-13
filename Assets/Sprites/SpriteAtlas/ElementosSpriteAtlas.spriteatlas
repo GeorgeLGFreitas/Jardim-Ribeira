@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ElementosSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c90ca4fb340b2f74b987ffc7d8e15fc5, type: 3}
+    totalSpriteSurfaceArea: 28206790
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8b0e65a0e031aed499715d19182aaafd, type: 3}
+  - {fileID: 21300000, guid: 8f301885df41d1e448500ba63052d6e5, type: 3}
+  - {fileID: 21300000, guid: ef945b695fb442746be89b6493df6950, type: 3}
+  - {fileID: 21300000, guid: f5a35689a8248f64db8eef2a4f5fdbb0, type: 3}
+  - {fileID: 21300000, guid: ac7ccce9a370141468d1d47dfc56f5aa, type: 3}
+  - {fileID: 21300000, guid: 06fab95ba475b204dbcc58362730ff9c, type: 3}
+  - {fileID: 21300000, guid: 77d7d30cab9c16a4bb223a01f7ccaadf, type: 3}
+  - {fileID: 21300000, guid: b146b0aece4543b45a26fb2584c3b5d1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "Fossa S\xE9ptica"
+  - Jardim Filtrante
+  - Cisterna Clorador
+  - Cisterna Comum
+  - Clorador_Sozinho
+  - Condensador Water-Air
+  - "po\xE7o2"
+  - Lixeira Cheia
+  m_Tag: ElementosSpriteAtlas
+  m_IsVariant: 0

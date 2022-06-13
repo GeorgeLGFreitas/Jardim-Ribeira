@@ -1,0 +1,2632 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8831415308386319513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093039902010
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 0
+--- !u!114 &-8719073343573052438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 2
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 2
+  guid: 045a414816feba459e08063888b37c1b
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-8696980792119600699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  guid: 4bfcc4aa2417474ebfac1c88534be87f
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -1917626437990763747}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-8656098299002447445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &-8596329904767579465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Pagina virando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Pagina virando
+  guid: c49f5f758d00bd48957ef3b50c861d04
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 415
+--- !u!114 &-8525548725101113925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o Loja"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o Loja"
+  guid: d54d8591fbb9794c985cf10ee6579125
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 624
+--- !u!114 &-8525216631092265222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o turno"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o turno"
+  guid: 15c1bccb5ed16c41841c5a9722d58aab
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &-8452377846623920319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Passar dialogo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Passar dialogo
+  guid: aa8b4b7963aac241ad3b6bc5263ea39b
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 382
+--- !u!114 &-8448426282246000869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 2
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 2
+  guid: 045a414816feba459e08063888b37c1b
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-7715767143916247558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093075564396
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-7565503195988871149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 0
+--- !u!114 &-7391737705834855504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- abrindo gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- abrindo gaveta livro
+  guid: eefdd2743c9fb14194184f693a62deed
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 475
+--- !u!114 &-7304351626802044316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Dinheiro gastando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Dinheiro gastando
+  guid: 79f3dab2ca437143b0ba8ab98725689c
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1260
+--- !u!114 &-7140635442115436231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Menu
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Menu
+  guid: 38cb6089415381419e7da4e9da222714
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 133877
+--- !u!114 &-6768484322225039071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Menu
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Menu
+  guid: 38cb6089415381419e7da4e9da222714
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 133877
+--- !u!114 &-6415354181043749362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- abrindo gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- abrindo gaveta livro
+  guid: eefdd2743c9fb14194184f693a62deed
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 475
+--- !u!114 &-6380593503798431952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093039902010
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 0
+--- !u!114 &-5903405587147404060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  guid: bbe2e7278b958e469e5b96a03f95485e
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &-5884687002237973389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o turno"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o turno"
+  guid: 15c1bccb5ed16c41841c5a9722d58aab
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &-5703646306384688922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093075624368
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 0
+--- !u!114 &-5465971871329809304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva forte
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva forte
+  guid: f0257dae42174a4a8b21b5ad85d35e2e
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-4950415423480568085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  guid: 3b69fefc14a3444d903be7b9619ef42e
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-4675996749779872416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva fraca
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva fraca
+  guid: f5fcee6f1519de49b729d6cad47866e7
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-4382619712996489157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Pagina virando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Pagina virando
+  guid: c49f5f758d00bd48957ef3b50c861d04
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 415
+--- !u!114 &-4362717817134641738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  guid: 5437c601eb550847a3ee5fcb051289b9
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 621
+--- !u!114 &-4347042230527512444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Dinheiro gastando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Dinheiro gastando
+  guid: 79f3dab2ca437143b0ba8ab98725689c
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1260
+--- !u!114 &-4059314700147337024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  guid: cead5c8624594845812038818172f1e7
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 87
+--- !u!114 &-3892432321363043983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093039902010
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 1
+--- !u!114 &-3593543190972471077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &-3466230067072235848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Pagina virando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Pagina virando
+  guid: c49f5f758d00bd48957ef3b50c861d04
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 415
+--- !u!114 &-3387459763224076751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva forte
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva forte
+  guid: f0257dae42174a4a8b21b5ad85d35e2e
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-2920636857811755186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093039792103
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-2854091382624638643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &-2562134080170692782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Menu
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Menu
+  guid: 38cb6089415381419e7da4e9da222714
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 133877
+--- !u!114 &-2391802712158725911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro fechando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro fechando
+  guid: 28b231b11f871c4988629758f7acc4b6
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 743
+--- !u!114 &-2361881205813410085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  guid: ff671561e1e9c04a9d9a7a8ce6e281a2
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1125
+--- !u!114 &-2283363867202617934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093075624368
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 1
+--- !u!114 &-2189584858969728264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  guid: 5437c601eb550847a3ee5fcb051289b9
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 621
+--- !u!114 &-2188502605517328723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 1
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 1
+  guid: 515579e0c6e83d4890bd7a94a6e8c7fe
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-2018485602464025066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Pagina virando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Pagina virando
+  guid: c49f5f758d00bd48957ef3b50c861d04
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 415
+--- !u!114 &-1917626437990763747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &-1911354070807927781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Passar dialogo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Passar dialogo
+  guid: aa8b4b7963aac241ad3b6bc5263ea39b
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 382
+--- !u!114 &-1888065080155727627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  guid: 3b69fefc14a3444d903be7b9619ef42e
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-1812821746881147646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chars entrando em cena
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chars entrando em cena
+  guid: 236c5901fbea7d468a499b521dc8dca8
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1800
+--- !u!114 &-1673546162080963681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o turno"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o turno"
+  guid: 15c1bccb5ed16c41841c5a9722d58aab
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &-1550887909236825377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva fraca
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva fraca
+  guid: f5fcee6f1519de49b729d6cad47866e7
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-1469394800959228419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro abrindo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro abrindo
+  guid: d103f04cf4d4af409326038735eaaee1
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1065
+--- !u!114 &-1028309999915815601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- abrindo gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- abrindo gaveta livro
+  guid: eefdd2743c9fb14194184f693a62deed
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 475
+--- !u!114 &-1024268058637718231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  guid: 4d7f947186ae58499ab308a94bc3831b
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 12600
+--- !u!114 &-598039389780711885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  guid: 3b69fefc14a3444d903be7b9619ef42e
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-573942923504883642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Fechando gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Fechando gaveta livro
+  guid: c298e301eb61a540b13d080251452006
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 704
+--- !u!114 &-536839658434665224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  guid: 5437c601eb550847a3ee5fcb051289b9
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 621
+--- !u!114 &-518145448751777338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093039792103
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-420863576625142432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Fechando gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Fechando gaveta livro
+  guid: c298e301eb61a540b13d080251452006
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 704
+--- !u!114 &-325565693180753943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 1
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 1
+  guid: 515579e0c6e83d4890bd7a94a6e8c7fe
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-279705318801140157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 1
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 1
+  guid: 515579e0c6e83d4890bd7a94a6e8c7fe
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &-194610316824982640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093039792103
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 7199427250412431238}
+  - {fileID: -7715767143916247558}
+  EditorEvents:
+  - {fileID: -8448426282246000869}
+  - {fileID: 8071064305771273753}
+  - {fileID: -5884687002237973389}
+  - {fileID: 2435364984915138822}
+  - {fileID: 8053523088517105771}
+  - {fileID: -6768484322225039071}
+  - {fileID: 8496765383883309674}
+  - {fileID: 5823136529210803202}
+  - {fileID: 6174142067381986036}
+  - {fileID: -279705318801140157}
+  - {fileID: -536839658434665224}
+  - {fileID: 6630220221470080092}
+  - {fileID: 7013401395107228119}
+  - {fileID: -5903405587147404060}
+  - {fileID: 6283825324376791016}
+  - {fileID: -4382619712996489157}
+  - {fileID: 5049776679664063270}
+  - {fileID: -1469394800959228419}
+  - {fileID: 3512614629048386268}
+  - {fileID: -7391737705834855504}
+  - {fileID: -3387459763224076751}
+  - {fileID: -4675996749779872416}
+  - {fileID: -2361881205813410085}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -7715767143916247558}
+  StringsBanks:
+  - {fileID: 7199427250412431238}
+  stringsBankWriteTime: 637414093075624368
+  cacheVersion: 5
+--- !u!114 &52423809798939238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro abrindo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro abrindo
+  guid: d103f04cf4d4af409326038735eaaee1
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1065
+--- !u!114 &103775276506224805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Fechando gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Fechando gaveta livro
+  guid: c298e301eb61a540b13d080251452006
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 704
+--- !u!114 &540115137529316170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o turno"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o turno"
+  guid: 15c1bccb5ed16c41841c5a9722d58aab
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &659900817330610696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  guid: ff671561e1e9c04a9d9a7a8ce6e281a2
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1125
+--- !u!114 &672317063794241999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva fraca
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva fraca
+  guid: f5fcee6f1519de49b729d6cad47866e7
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &959551091737805631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093075624368
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 1
+--- !u!114 &1240851134317598559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  guid: bbe2e7278b958e469e5b96a03f95485e
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &1296015569206086283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro fechando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro fechando
+  guid: 28b231b11f871c4988629758f7acc4b6
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 743
+--- !u!114 &1481174834790292530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  guid: 4bfcc4aa2417474ebfac1c88534be87f
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 7505027644918008896}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &2085315752828399290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  guid: 0930dadec7ab384b901d72c1a7f2eba8
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 65
+--- !u!114 &2199191467658954852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093075564396
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &2328639205010578976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  guid: cead5c8624594845812038818172f1e7
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 87
+--- !u!114 &2435364984915138822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chars entrando em cena
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chars entrando em cena
+  guid: 236c5901fbea7d468a499b521dc8dca8
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1800
+--- !u!114 &2691324581134606031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 2
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 2
+  guid: 045a414816feba459e08063888b37c1b
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &2789472720852172678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093039902010
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 1
+--- !u!114 &2836820179416927018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  guid: 4bfcc4aa2417474ebfac1c88534be87f
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -2854091382624638643}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &2857698580134386920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093039792103
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3094288046699571462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro fechando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro fechando
+  guid: 28b231b11f871c4988629758f7acc4b6
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 743
+--- !u!114 &3225269129236473190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 0
+--- !u!114 &3285018868369222750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  guid: cead5c8624594845812038818172f1e7
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 87
+--- !u!114 &3298924302201810613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro abrindo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro abrindo
+  guid: d103f04cf4d4af409326038735eaaee1
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1065
+--- !u!114 &3314242222978817138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 2
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 2
+  guid: 045a414816feba459e08063888b37c1b
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &3469032532827899147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chars entrando em cena
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chars entrando em cena
+  guid: 236c5901fbea7d468a499b521dc8dca8
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1800
+--- !u!114 &3512614629048386268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o Loja"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o Loja"
+  guid: d54d8591fbb9794c985cf10ee6579125
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 624
+--- !u!114 &3630804598992715119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro abrindo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro abrindo
+  guid: d103f04cf4d4af409326038735eaaee1
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1065
+--- !u!114 &4912106316328231763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Dinheiro gastando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Dinheiro gastando
+  guid: 79f3dab2ca437143b0ba8ab98725689c
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1260
+--- !u!114 &5049776679664063270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 2"
+  guid: cead5c8624594845812038818172f1e7
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 87
+--- !u!114 &5402137887487329219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva fraca
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva fraca
+  guid: f5fcee6f1519de49b729d6cad47866e7
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &5679231152491327159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o Loja"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o Loja"
+  guid: d54d8591fbb9794c985cf10ee6579125
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 624
+--- !u!114 &5730470984015079406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva forte
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva forte
+  guid: f0257dae42174a4a8b21b5ad85d35e2e
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &5823136529210803202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 3 (chuva em parametro)
+  guid: 4bfcc4aa2417474ebfac1c88534be87f
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -3593543190972471077}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &5872842237245314904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  guid: ff671561e1e9c04a9d9a7a8ce6e281a2
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1125
+--- !u!114 &6022309769951980559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093075564396
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6174142067381986036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  guid: 4d7f947186ae58499ab308a94bc3831b
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 12600
+--- !u!114 &6280470082102874359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes"
+  guid: ff671561e1e9c04a9d9a7a8ce6e281a2
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1125
+--- !u!114 &6283825324376791016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Fechando gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Fechando gaveta livro
+  guid: c298e301eb61a540b13d080251452006
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 704
+--- !u!114 &6630220221470080092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Dinheiro gastando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Dinheiro gastando
+  guid: 79f3dab2ca437143b0ba8ab98725689c
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1260
+--- !u!114 &6643780010391309792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 0
+--- !u!114 &7006288697340128299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chars entrando em cena
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chars entrando em cena
+  guid: 236c5901fbea7d468a499b521dc8dca8
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1800
+--- !u!114 &7013401395107228119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Passar dialogo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Passar dialogo
+  guid: aa8b4b7963aac241ad3b6bc5263ea39b
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 382
+--- !u!114 &7199427250412431238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  lastModified: 637414093075624368
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1940
+  Exists: 1
+--- !u!114 &7236228491188161890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD Projects/Fmod-Ribeira Jardim/Build/Desktop/Master.bank
+  Name: Master
+  lastModified: 637414093075564396
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &7505027644918008896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Musica Gameplay 3 (chuva em parametro)/Chuva
+  m_EditorClassIdentifier: 
+  Name: Chuva
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &7827244722236313018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Chuva forte
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Chuva forte
+  guid: f0257dae42174a4a8b21b5ad85d35e2e
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &7847629191833508415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Colocando Constru\xE7oes S confirmar"
+  guid: 5437c601eb550847a3ee5fcb051289b9
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 621
+--- !u!114 &7956679758671921645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  guid: 0930dadec7ab384b901d72c1a7f2eba8
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 65
+--- !u!114 &8013841921351285876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  guid: 4d7f947186ae58499ab308a94bc3831b
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 12600
+--- !u!114 &8047390099634698908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  guid: bbe2e7278b958e469e5b96a03f95485e
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &8053523088517105771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Livro fechando
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Livro fechando
+  guid: 28b231b11f871c4988629758f7acc4b6
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 743
+--- !u!114 &8071064305771273753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  guid: 0930dadec7ab384b901d72c1a7f2eba8
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 65
+--- !u!114 &8075210538610481344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o Loja"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o Loja"
+  guid: d54d8591fbb9794c985cf10ee6579125
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 624
+--- !u!114 &8177579262283616502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Remover Constru\xE7\xE3o"
+  guid: bbe2e7278b958e469e5b96a03f95485e
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 400
+--- !u!114 &8180288746364585594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Trov\xE3o - Oneshot"
+  guid: 4d7f947186ae58499ab308a94bc3831b
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 12600
+--- !u!114 &8183721347398631421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Gameplay 1
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Gameplay 1
+  guid: 515579e0c6e83d4890bd7a94a6e8c7fe
+  Banks:
+  - {fileID: -2920636857811755186}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &8222929479304650761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- Passar dialogo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- Passar dialogo
+  guid: aa8b4b7963aac241ad3b6bc5263ea39b
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 382
+--- !u!114 &8458828660801306436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX's/SFX- Bot\xE3o UI - op 1"
+  guid: 0930dadec7ab384b901d72c1a7f2eba8
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 65
+--- !u!114 &8496765383883309674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Mucsca Gameplay 3 (chuva inclusa)
+  guid: 3b69fefc14a3444d903be7b9619ef42e
+  Banks:
+  - {fileID: -7715767143916247558}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 115100
+--- !u!114 &8638234721957012106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musicas/Musica Menu
+  m_EditorClassIdentifier: 
+  Path: event:/Musicas/Musica Menu
+  guid: 38cb6089415381419e7da4e9da222714
+  Banks:
+  - {fileID: -518145448751777338}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 133877
+--- !u!114 &8800853378927600709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX's/SFX- abrindo gaveta livro
+  m_EditorClassIdentifier: 
+  Path: event:/SFX's/SFX- abrindo gaveta livro
+  guid: eefdd2743c9fb14194184f693a62deed
+  Banks:
+  - {fileID: 7236228491188161890}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 475

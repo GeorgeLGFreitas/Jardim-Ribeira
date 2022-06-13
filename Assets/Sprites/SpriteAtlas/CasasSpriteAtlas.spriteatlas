@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CasasSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b2d372c1388c67243a37d464ca8ffc99, type: 3}
+    - {fileID: 102900000, guid: f4fcb713735d00042b0a1f688c7297dd, type: 3}
+    totalSpriteSurfaceArea: 54998400
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f8323e108643a0e4d8f974cc1a23ff7d, type: 3}
+  - {fileID: 21300000, guid: 65e857902ca155345a2d1b13ed45ff80, type: 3}
+  - {fileID: 21300000, guid: 6e45c10122ac18746a5f147b4a496d19, type: 3}
+  - {fileID: 21300000, guid: 9c4c5761eee2f4643b8aa682789e0d69, type: 3}
+  - {fileID: 21300000, guid: 3f17d2c1111e36e41a2006cd597400ee, type: 3}
+  - {fileID: 21300000, guid: 08df4fd3b85056b48bb164fab6b2b219, type: 3}
+  - {fileID: 21300000, guid: 595c53b45295e8748bf155a443fcf08b, type: 3}
+  - {fileID: 21300000, guid: 21d070264a61724489df88a2ad1def87, type: 3}
+  - {fileID: 21300000, guid: c4e31736c7a156a4d9031b6ed20c2bf7, type: 3}
+  - {fileID: 21300000, guid: d85242d6692eac74885f9236b110041a, type: 3}
+  - {fileID: 21300000, guid: d18845c8fb7a395458d49fca6ea1e5f5, type: 3}
+  - {fileID: 21300000, guid: 958735c9fae95d947bcafd6ad3ed2068, type: 3}
+  - {fileID: 21300000, guid: b773ef2b991e310408833518a2071668, type: 3}
+  - {fileID: 21300000, guid: 111094dbf78dacf45bea2a262b5aef63, type: 3}
+  - {fileID: 21300000, guid: 940f062c04baae24398ae06da02139df, type: 3}
+  - {fileID: 21300000, guid: 32709eac685ec0b428dc99a6dad48b35, type: 3}
+  - {fileID: 21300000, guid: a1c0c07dde0020c4ab11a7ce0ee8e901, type: 3}
+  - {fileID: 21300000, guid: ba569d3e9938c80478c6bb8ee9c67f97, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CanoL
+  - CanoT
+  - Casa Cau Bic 1
+  - Casa Malta 1
+  - Casa Malta 3
+  - Casa Malta 2
+  - Casa Cau Bic 2
+  - CanoReto
+  - Casa Cau Bic 3
+  - Casa Jabu 1
+  - Casa Cog 1
+  - Casa Jabu 3
+  - DCanoL
+  - DCanoT
+  - Casa Jabu 2
+  - Casa Cog 3
+  - DCanoReto
+  - Casa Cog 2
+  m_Tag: CasasSpriteAtlas
+  m_IsVariant: 0
